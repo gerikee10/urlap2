@@ -1,0 +1,28 @@
+span
+{
+    color: red;
+}
+
+#gomb
+{
+    color: white;
+    background-color: yellowgreen;
+    width:500px;
+    height: 30px;
+
+}
+
+select
+{
+    height: 20px;
+}
+
+#cím
+{
+    width: 300px;
+}
+
+#varos
+{
+    width: 300px;
+}
